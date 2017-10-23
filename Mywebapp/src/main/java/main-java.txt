@@ -1,0 +1,4 @@
+This folder is for maven project. Java code is written here
+server side code
+business logic
+database code etc

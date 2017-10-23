@@ -1,0 +1,4 @@
+This is mandatory folder "web-inf" for web based applications
+All components under web-inf are hidden
+web.xml is also called as deployment descriptor (Has all the components that are read during startup
+like where index.html file etc

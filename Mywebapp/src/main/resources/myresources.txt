@@ -1,0 +1,8 @@
+this folder is place holder for UI components like 
+	boot strap components
+	css
+	jscript
+	images
+	property files
+	config files
+	icons
